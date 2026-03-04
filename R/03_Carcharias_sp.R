@@ -30,7 +30,7 @@ parameters <- bayesian_salinity(
   temperature_prior_vector = temperature_prior_vector,
   d18Ofw_prior_vector = d18Ofw_prior_vector,
   salinity_prior_vector = salinity_prior_vector,
-  iterations = 10000)
+  iterations = 100000)
 
 # # plot histograms of the results ----------------------------------------------
 # parameters$parameters |>

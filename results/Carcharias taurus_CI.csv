@@ -1,9 +1,9 @@
 name,CI_2.5,CI_0.5,CI_97.5,taxon
-B0,-0.2,0.4,1,Striatolamia
-B1,-36.6,-35.3,-34.1,Striatolamia
-d18Oenv,-0.3,0.8,1.7,Striatolamia
+B0,-0.2,0.4,0.9,Striatolamia
+B1,-36.5,-35.4,-34.2,Striatolamia
+d18Oenv,-0.3,0.8,1.6,Striatolamia
 d18Ofw,-8,-7.4,-6.9,Striatolamia
-salinity,31.3,37.5,41.4,Striatolamia
-sigma_env,0.5,0.8,2.4,Striatolamia
-sigma_reg,0.6,0.7,0.9,Striatolamia
-temperature,12,14,16,Striatolamia
+salinity,31.3,37.1,41.3,Striatolamia
+sigma_env,0.5,0.8,1.9,Striatolamia
+sigma_reg,0.6,0.7,1,Striatolamia
+temperature,11.9,13.8,16,Striatolamia
